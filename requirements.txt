@@ -1,0 +1,5 @@
+-i https://pypi.org/simple
+torch==1.4.0
+tqdm==4.59.0
+transformers==3.4.0
+argparse==1.1
